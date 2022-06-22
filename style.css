@@ -1,0 +1,18 @@
+body{
+    background-color: cornsilk;
+}
+
+#timer{
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+#score{
+    font-size: 30px;
+    margin-right: 300px;
+}
+
+#your_sketch_to_be_drawn{
+    color: chocolate;
+    font-weight: bold;
+}
